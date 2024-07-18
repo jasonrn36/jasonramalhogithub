@@ -8,5 +8,6 @@ This is a public release repository
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrn36&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
-[![Readme-card](https://github-readme-stats-vercel.app/api/pin/?username=jasonnr36)](https://github.com/anuraghazra/github-readme-stats)
+https://site-jason-developer.vercel.app/
+https://site-gamesshop-silk-three.vercel.app/
 
