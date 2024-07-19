@@ -1,5 +1,6 @@
-This is a public release repository
-###Hello, here is a little of my work and performance during my journey in Programming
+###This is a public release repository
+
+##Hello, here is a little of my work and performance during my journey in Programming
   
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonrn36&show_icons=true&theme=tokyonight)
     
