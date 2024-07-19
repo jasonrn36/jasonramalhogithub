@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
 <body>
     <section id="presentation">
     <h2>This is a public release repository</h2>
