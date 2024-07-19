@@ -15,7 +15,7 @@ https://site-jason-developer.vercel.app/
 https://site-gamesshop-silk-three.vercel.app/
 
 <a target="_blank" rel="nooperner noreferrer nofollow" href="https://github.com/jasonrn36/site_jason_developer/blob/main/html5-logo.png">
-<img height="50" alt="javascript" src="https://github.com/jasonrn36/site_jason_developer/blob/main/html5-logo.png" style="max-width: 100">
+<img height="50" alt="javascript" src="https://github.com/jasonrn36/site_jason_developer/blob/main/html5-logo.png" style="max-width: 100, text-decoration:none">
 </a>
 
 <a target="_blank" rel="nooperner noreferrer nofollow" href="https://github.com/jasonrn36/site_jason_developer/blob/main/CSS3_logo%20marca.png">
