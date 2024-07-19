@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
 # jasonramalhogithub
 This is a public release repository
 ### Hello, here is a little of my work and performance during my journey in Programming
@@ -11,7 +15,8 @@ This is a public release repository
 https://site-jason-developer.vercel.app/
 ###
 https://site-gamesshop-silk-three.vercel.app/
-<section style="text-decoration: none">
+
+<section id="logos">
 <a target="_blank" rel="nooperner noreferrer nofollow" href="https://github.com/jasonrn36/site_jason_developer/blob/main/html5-logo.png">
 <img height="20" alt="javascript" src="https://github.com/jasonrn36/site_jason_developer/blob/main/html5-logo.png" style="max-width: 100%;">
 </a>
