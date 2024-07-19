@@ -12,10 +12,6 @@ https://site-jason-developer.vercel.app/
 ###
 https://site-gamesshop-silk-three.vercel.app/
 
-<a target="_blank" rel="nooperner noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
-</a>
-###
 <a target="_blank" rel="nooperner noreferrer nofollow" href="https://github.com/jasonrn36/site_jason_developer/blob/main/JavaScript_logo_ramalho.png">
 <img height="20" alt="javascript" src="https://github.com/jasonrn36/site_jason_developer/blob/main/JavaScript_logo_ramalho.png" style="max-width: 100%;">
 </a>
