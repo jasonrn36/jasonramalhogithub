@@ -10,8 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrn36&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Projects
-https://json-developer.vercel.app/
-
 
 </body>
